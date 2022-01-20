@@ -1,0 +1,4 @@
+En carpetas de diagramas de clases y diagramas de secuencia están los diagramas grandes
+o aquellos que no se ven muy bien en el documento de "Diseño UML"
+En la carpeta Connect4Design en "Trabajo del Cuatrimestre" están todos los diagramas entregados en el ultimo sprint
+si se desa revisar
