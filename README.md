@@ -3,16 +3,16 @@
 -  **Product Owner:** Robert Farzan
 -  **Scrum Master:** Daniela Córdova Porta
 -  **Development Team:** 
-    -  Alejandro Corpas Calvo
-	- David Bugoi
-	- Jorge Del Prado
-	- Daniela Córdova Porta
-	- Robert Farzan
+    -  [Alejandro Corpas Calvo](https://github.com/alcorpas10)
+	- [David Bugoi](https://github.com/Dbugoi)
+	- [Jorge Del Prado](https://github.com/jorgedpr)
+	- [Daniela Córdova Porta](https://github.com/DanielaCordova)
+	- [Robert Farzan](https://github.com/FarzanUCM)
 
 > Proyecto desarrollado por alumnos de la Universidad Complutense de Madrid
 > para la asignatura Ingeniería del Software
 
-NOTA: EL CÓDIGO A EJECUTAR ES LA CARPETA "Código Conecta4". Importar proyecto para que no de errores de acceso a librerías propias del proyecto
+NOTA: EL CÓDIGO A EJECUTAR ES LA CARPETA "Código Conecta4". Importar proyecto para que no de errores de acceso a librerías propias del proyecto.
 En caso de copiar y pegar simplemente las carpetas src y lib en un proyecto ya creado puede que sea necesario añadir al path las librerias.
 Para ejecutar el programa solo será necesario irse al paquete "launcher" y hacer run del Main.java (no necesita argumentos), en el caso de 
 querer jugar al multijugador previamente se deberá haber abierto el servidor ejecutando el ServerMain.java, situado tambien en "launcher" 
